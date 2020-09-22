@@ -1,6 +1,6 @@
 {
   "name": "expo-googleauth-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "google auth provider for Expo apps",
   "main": "index.tsx",
   "scripts": {
@@ -9,9 +9,15 @@
   "dependencies": {
     "expo-google-app-auth": "^8.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinplanbsoft/expo-googleauth-provider.git"
+  },
   "keywords": [
     "expo",
-    "react-native"
+    "react-native",
+    "google",
+    "authentication"
   ],
   "author": "sinplanbsoft",
   "license": "ISC"
